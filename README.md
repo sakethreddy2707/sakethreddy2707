@@ -1,4 +1,4 @@
-![MasterHead] (https://www.reddit.com/r/Cyberpunk/comments/17orhba/coding_by_pixel_jeff/#lightbox)
+![MasterHead](https://www.reddit.com/r/Cyberpunk/comments/17orhba/coding_by_pixel_jeff/#lightbox)
 <h2 align="center">Hi 👋, I'm saketh reddy nimmala</h2>
 <h3 align="center">An aspiring software developer</h3>
 
