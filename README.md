@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/sakethreddy2707/sakethreddy2707/refs/heads/main/1.gif)
+![MasterHead](https://raw.githubusercontent.com/sakethreddy2707/sakethreddy2707/main/1.gif)
 <h2 align="center">Hi 👋, I'm saketh reddy nimmala</h2>
 <h3 align="center">An aspiring software developer</h3>
 
